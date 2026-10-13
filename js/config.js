@@ -15,7 +15,7 @@ window.BBL_CONFIG = {
 
   // Pimpinan: isi nama jika ingin ditampilkan di bawah foto. Kosongkan jika tidak.
   showLeader: true,
-  leaderName: "",
+  leaderName: "SUPOYO",
 
   // Nomor NIB: periksa lagi dengan dokumen asli sebelum dipublikasikan
   showNib: true,
